@@ -2,7 +2,7 @@
 
 **Proyecto académico - Opción de Grado II**  
 **Corporación Universitaria Iberoamericana – Ingeniería de Software**  
-**Bogotá D.C., 2024**
+**Bogotá D.C., 2025**
 
 
 ## 🧠 Descripción General
